@@ -53,6 +53,11 @@ See Moodle.
 [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 
 
+## Inspiration 
+
+- 📚 "Introduction" (chapter 0) and "Networks" (chapter 1) in Critical Web Design
+
+
 ## Code
 
 Add the following in `index.html`. Use HTML to make your text readable. Experiment!
