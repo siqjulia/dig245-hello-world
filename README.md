@@ -56,6 +56,7 @@ See Moodle.
 ## Inspiration 
 
 - 📚 "Introduction" (chapter 0) and "Networks" (chapter 1) in Critical Web Design
+- 📚 B.J. Keeton [The History Behind “Hello World”](https://www.elegantthemes.com/blog/wordpress/the-history-behind-hello-world) (2020)
 
 
 ## Code
@@ -80,6 +81,6 @@ Add the following in `index.html`. Use HTML to make your text readable. Experime
 
 ## Resources
 
-- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
-- [Mozilla Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
-- [The History Behind “Hello World”](https://www.elegantthemes.com/blog/wordpress/the-history-behind-hello-world)
+- Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
+- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
+
