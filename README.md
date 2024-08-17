@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Practice using VS Code, Git, and Github to write, track, and publish a website.
+Publish a website using VS Code, Git, and Github.
 
 
 <details>
@@ -48,15 +48,22 @@ See Moodle.
 
 
 
-## Setup
-
-[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine. Or use this Glitch version https://glitch.com/edit/#!/dig245-hello-world
-
-
-## Inspiration 
+## Preparation 
 
 - 📚 "Introduction" (chapter 0) and "Networks" (chapter 1) in Critical Web Design
 - 📚 B.J. Keeton [The History Behind “Hello World”](https://www.elegantthemes.com/blog/wordpress/the-history-behind-hello-world) (2020)
+
+
+
+## Setup
+
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository (*create a copy of the project in your own Github account*).
+1. [Clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) your copy to your machine. 
+
+
+> Glitch version: https://glitch.com/edit/#!/dig245-hello-world
+
+
 
 
 ## Code
@@ -64,11 +71,10 @@ See Moodle.
 Add the following in `index.html`. Use HTML to make your text readable. Experiment!
 
 1. Your name, year of school, major (or intended major)
-1. Why are you taking this course?
+1. Why are you taking this course? What are your goals?
 1. What experience do you have creating content for the web or programming?
-1. What are your goals in this course?
-1. Select a tutorial from [learn-computing](https://github.com/omundy/learn-computing). Follow the instructions and summarize it 100-150 words.
-1. Select 3 web-based projects that represent your interests, aspirations, and passions. See the [CWD examples](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0) for inspiration. List each project with its title, a link to it, and 2–3 sentences describing it and why it is remarkable.
+1. Select a tutorial from [learn-computing](https://github.com/omundy/learn-computing) (other than command line and Git). Follow the instructions and summarize it 100-150 words.
+1. Select 3 web-based projects that represent your interests, aspirations, and passions from the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/). List each project with its title, link, and 2–3 sentences describing it and why it is remarkable.
 1. Add an HTML comment explaining if any part of this assignment was difficult.
 
 
